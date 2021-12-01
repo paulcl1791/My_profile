@@ -1,0 +1,59 @@
+h1
+{
+      color: #119DA4;
+      font-family : 'Open Sans', sans-serif ;
+      font-size: 50px;
+      text-align: center;
+
+}
+h2
+{
+      font-size: 50px;
+      color: #302F4D;
+      text-align: center;
+
+}
+
+body
+{
+      background : radial-gradient(ellipse at center, #fdbb2d 0%, #22c1c3 100%);
+      font-family: Helvetica;
+      font-size: 20px;
+}
+
+.divs
+{
+      text-align: center;
+      font-style: none;
+      padding: 60px;
+      margin: 50px;
+      box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+a 
+{
+      color: #fff;
+      text-align: center;
+      font-size: 30px;
+      text-decoration: none;
+      
+      
+}
+ul
+{
+      color: #fff;
+      list-style: none;
+      font-size: 25px;
+      background-color: #312F2F;
+      padding: 20px;
+      border-radius: 20px;
+}
+p
+{
+      text-decoration: underline;
+}
+.text
+{
+      color: #302F4D;
+}
+
